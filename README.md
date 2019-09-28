@@ -24,4 +24,4 @@ Como o Arduino trabalha em seus pinos apenas com 5V e uma corrente relativamente
 Usado para abertura de caixa usando uma mini trava elétrica solenoide, Arduino e leitor RFID.
 
 # Créditos
-Projeto formulado pelos alunos do Centro Federal de Educação Tecnológica de Minas Gerais do curso de Eletrotécnica, sobre a tutela do professor Epaminondas Lage. 
+Projeto formulado pelos alunos Thales Fernandes, Lucas Martins, Guilherme Moreira, Lucas Luiz, Isis Yasmin e Andre Nassif do Centro Federal de Educação Tecnológica de Minas Gerais do curso de Eletrotécnica, sobre a tutela do professor Epaminondas Lage.
