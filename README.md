@@ -1,5 +1,5 @@
 # Título:
-Trava Eletronica e RFID
+Trava Eletrônica e RFID
 
 # Descrição
 Sistema de abertura de caixa usando uma mini trava elétrica solenoide, Arduino e leitor RFID.
